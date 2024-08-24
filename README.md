@@ -1,4 +1,13 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+HOLA PROFE:
+
+JUAN ESTEBAN CARVAJAL GÓMEZ.
+
+SE USAN TODAS LAS LIBRERIAS VISTAS EN CLASE, A DEMAS LA PAPER DEL VIDEO Y ESTA npm install react-native-picker-select PARA LISTAS DESPLEGABLES
+
+
+
+
+his is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
